@@ -1,0 +1,12 @@
+.section{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.partner{
+    background-color: aqua;
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+}
